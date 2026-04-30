@@ -17,7 +17,7 @@ For this reason, any email addresses we use are **not monitored**, they are for 
   <br>
   <p></p>
   <p><strong>Add comments, questions and ideas to the Discussions page:</strong></p>
-  <a href="https://github.com/openresearchcalendar/openresearchcalendar.github.io/discussions" target="_blank" rel="noopener"
+  <a href="https://github.com/sgibson91.github.io/OSCal/discussions" target="_blank" rel="noopener"
      style="display: inline-block; background-color: #ff7700; color: white; padding: 10px 20px; 
             border-radius: 5px; text-decoration: none; font-weight: bold;">
     <i class="fa fa-external-link"></i> Add to Discussions
