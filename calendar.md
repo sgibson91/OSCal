@@ -12,8 +12,8 @@ full-width: true
 
       <div class="orc-calendar-frame">
         <iframe
-          title="Open Research Calendar"
-          src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=b3BlbnJlc2VhcmNoY2FsZW5kYXJAZ21haWwuY29t&amp;color=%23F4511E&amp;showTitle=1&amp;title=Open%20Research%20Calendar&amp;showPrint=0&amp;showCalendars=0&amp;hl=en_GB"
+          title="OSCal"
+          src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=da57dceea1b40b83508d8945758fe6be016d89bcd48422548e8e68cfc0628343&amp;color=%23F4511E&amp;showTitle=1&amp;title=OSCal&amp;showPrint=0&amp;showCalendars=0&amp;hl=en_GB"
           loading="lazy"
           frameborder="0"
           scrolling="no"
@@ -28,7 +28,7 @@ full-width: true
 
       <p class="orc-mobile-note">
         The full calendar view is hidden on smaller screens to keep this page readable. Open the
-        <a href="https://calendar.google.com/calendar/u/0/embed?src=openresearchcalendar@gmail.com&amp;ctz=Europe/London" target="_blank" rel="noopener">Google Calendar</a>
+        <a href="https://calendar.google.com/calendar/embed?src=da57dceea1b40b83508d8945758fe6be016d89bcd48422548e8e68cfc0628343%40group.calendar.google.com&ctz=Europe%2FLondon" target="_blank" rel="noopener">Google Calendar</a>
         if you still want the full month view.
       </p>
 
@@ -69,7 +69,7 @@ full-width: true
         </div>
         <a
           class="orc-button orc-button--secondary"
-          href="https://calendar.google.com/calendar/u/0/embed?src=openresearchcalendar@gmail.com&amp;ctz=Europe/London"
+          href="https://calendar.google.com/calendar/embed?src=da57dceea1b40b83508d8945758fe6be016d89bcd48422548e8e68cfc0628343%40group.calendar.google.com&ctz=Europe%2FLondon"
           target="_blank"
           rel="noopener"
         >Open Google Calendar</a>
