@@ -20,7 +20,7 @@ Please cite the Open Research Calendar as below. Note that the author order is a
 > Cassandra D Gould van Praag, Bradley J Kennedy, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar. Zenodo. <http://doi.org/10.5281/zenodo.4109949>.  
  
 
-<div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; text-align: center;">
+<!-- <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; text-align: center;">
   <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/sgibson91.github.io/OSCal/main/Documents/Images/logo_cropped bg-removed.png" alt="" width="340" height="110" /></p>
   <p style="text-align: right;">
     <span class="site-footer-owner">Supported by&nbsp;
@@ -30,9 +30,9 @@ Please cite the Open Research Calendar as below. Note that the author order is a
     </span>
   </p>
 </div>
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
-<h2 style="text-align: center;"><strong>Find us on:</strong></h2>
+<!-- <h2 style="text-align: center;"><strong>Find us on:</strong></h2>
 <div style="text-align: center; padding: 10px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center;">
     <a href="https://bsky.app/profile/openresearchcalendar.org" target="_blank" style="text-decoration: none; color: inherit;">
@@ -59,7 +59,7 @@ Hi there! :wave: Welcome to the Open Research Calendar. Below you can read a bit
 <div id="content-desktop"><iframe width="600" height="360" src="https://datastudio.google.com/embed/reporting/cbefe1ef-80b5-46db-a7c5-62b0e59b2ff7/page/HWJOC" frameborder="0" style="border:0; display: block;margin: auto;" allowfullscreen></iframe></div>
 
 <!--Button-->
-<div class="text-center">
+<!-- <div class="text-center">
   <a href="http://openresearchcalendar.org/metrics" target="_blank" class="button-77" role="button"><i class="fa fa-external-link"></i> View more metrics</a>  
 </div>
 
@@ -100,6 +100,6 @@ Esther Plomp
 | **Software** | CDGvP, BJK. |
 | **Visualization** | CDGvP, BJK, EP. |
 | **Writing -<br /> Original Draft Preparation** | CDGvP, BJK, EP. |
-| **Writing -<br /> Review & Editing** | CDGvP, BJK, AL, EP. |
+| **Writing -<br /> Review & Editing** | CDGvP, BJK, AL, EP. | -->
 
-<script src="https://openresearchcalendar.statuspage.io/embed/script.js"></script>
+<!-- <script src="https://openresearchcalendar.statuspage.io/embed/script.js"></script> -->
