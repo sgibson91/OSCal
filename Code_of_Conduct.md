@@ -36,7 +36,7 @@ If any contributor violates these rules, the Open Research Calendar team will ta
  
 To report an issue, please contact any member of the core development team (alphabetically listed): [Cassandra Gould van Praag](https://github.com/cassgvp) , [Bradley Kennedy](https://github.com/b-kennedy0), [Alexandra Lautarescu](https://github.com/AleLautarescu), [Esther Plomp](https://github.com/EstherPlomp). Reports may be discussed with other members of the core development team (unless there is a conflict of interest), and will be kept confidential. If you believe someone is in physical danger, please contact the appropriate emergency responders.
  
-This code is adapted from the [The Turing Way Code of Conduct](https://github.com/cassgvp/the-turing-way/blob/master/CODE_OF_CONDUCT.md) and used under the creative commons attribution license. Suggestions for updates or clarifications to this document can be made by making [pull requests](https://github.com/openresearchcalendar/openresearchcalendar.github.io/pulls) to this document on Github.
+This code is adapted from the [The Turing Way Code of Conduct](https://github.com/cassgvp/the-turing-way/blob/master/CODE_OF_CONDUCT.md) and used under the creative commons attribution license. Suggestions for updates or clarifications to this document can be made by making [pull requests](https://github.com/sgibson91.github.io/OSCal/pulls) to this document on Github.
  
  
 

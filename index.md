@@ -21,7 +21,7 @@ Please cite the Open Research Calendar as below. Note that the author order is a
  
 
 <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; text-align: center;">
-  <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/openresearchcalendar/openresearchcalendar.github.io/master/Documents/Images/logo_cropped bg-removed.png" alt="" width="340" height="110" /></p>
+  <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/sgibson91.github.io/OSCal/master/Documents/Images/logo_cropped bg-removed.png" alt="" width="340" height="110" /></p>
   <p style="text-align: right;">
     <span class="site-footer-owner">Supported by&nbsp;
       <a title="UK Reproducibility Network" href="https://www.ukrn.org/" target="_blank" rel="noopener">
@@ -36,19 +36,19 @@ Please cite the Open Research Calendar as below. Note that the author order is a
 <div style="text-align: center; padding: 10px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center;">
     <a href="https://bsky.app/profile/openresearchcalendar.org" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/openresearchcalendar/openresearchcalendar.github.io/master/Documents/Images/bluesky.svg" alt="BlueSky" width="42" height="42">
+      <img src="https://raw.githubusercontent.com/sgibson91.github.io/OSCal/master/Documents/Images/bluesky.svg" alt="BlueSky" width="42" height="42">
     <p style="margin: 5px 0 0; font-size: 14px;"><strong>BlueSky</strong><br>@openresearchcalendar.org</p>
     </a>
   </div>
   <div style="text-align: center;">
     <a href="https://www.linkedin.com/company/open-research-calendar" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/openresearchcalendar/openresearchcalendar.github.io/master/Documents/Images/linkedin.svg" alt="LinkedIn" width="42" height="42">
+      <img src="https://raw.githubusercontent.com/sgibson91.github.io/OSCal/master/Documents/Images/linkedin.svg" alt="LinkedIn" width="42" height="42">
     <p style="margin: 5px 0 0; font-size: 14px;"><strong>LinkedIn</strong><br>open-research-calendar</p>
     </a>
   </div>
   <div style="text-align: center;">
     <a href="https://mastodon.social/@openresearchcalendar" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/openresearchcalendar/openresearchcalendar.github.io/master/Documents/Images/mastodon.svg" alt="Mastodon" width="42" height="42">
+      <img src="https://raw.githubusercontent.com/sgibson91.github.io/OSCal/master/Documents/Images/mastodon.svg" alt="Mastodon" width="42" height="42">
     <p style="margin: 5px 0 0; font-size: 14px;"><strong>Mastodon</strong><br>@openresearchcalendar</p>
     </a>
   </div>

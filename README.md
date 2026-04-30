@@ -1,6 +1,6 @@
 # Open Research Calendar
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/openresearchcalendar/openresearchcalendar.github.io)
-![GitHub](https://img.shields.io/github/license/openresearchcalendar/openresearchcalendar.github.io)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/sgibson91.github.io/OSCal)
+![GitHub](https://img.shields.io/github/license/sgibson91.github.io/OSCal)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4109949.svg)](https://doi.org/10.5281/zenodo.4109949)
 
@@ -54,7 +54,7 @@ We welcome feedback on any aspect of the tool via our [Github Issues](https://gi
 
 Our social media and email accounts are all fully automated so you cannot contact us through those. However, you can add to GitHub Issues or Discussions.
 
-Comment on this repository via [GitHub Discussions](https://github.com/openresearchcalendar/openresearchcalendar.github.io/discussions)
+Comment on this repository via [GitHub Discussions](https://github.com/sgibson91.github.io/OSCal/discussions)
 
 ## Re-use and licensing
 
